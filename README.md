@@ -2,4 +2,4 @@
 ## I'm Wii U Developer and Little PS3 Developer.
 
 # Stats
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cedke00)](http://google.com)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=cedke00)](http://github.com/00cedke?)
