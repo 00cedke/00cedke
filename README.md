@@ -10,3 +10,19 @@ ____________________________________________________________
 <img src="https://komarev.com/ghpvc/?username=00cedke&style=black-square&color=green" alt=""/>
 
 <img src="idk" alt=""/>
+
+# languages
+- [x] HTML
+- [x] CSS
+- [x] PHP
+- [ ] Python (im suck lmao).
+- [x] Javascript
+- [x] C++
+- [x] C
+- [x] C# (yes but it's old).
+- [ ] Java (nope)
+- [ ] Lua
+- [ ] Nix (maybe one day).
+- [x] Go (little).
+- [x] Makefile
+- [x] NodeJS
