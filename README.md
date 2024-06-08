@@ -14,6 +14,8 @@ ____________________________________________________________
 # languages
 - [x] HTML
 - [x] CSS
+- [X] SCSS
+- [X] EJS
 - [x] PHP
 - [ ] Python (im suck lmao).
 - [x] Javascript
