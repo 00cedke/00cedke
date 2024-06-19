@@ -7,7 +7,7 @@ ____________________________________________________________
 
 # My Profile Views
 ____________________________________________________________
-<img src="https://komarev.com/ghpvc/?username=00cedke&style=black&color=black" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=00cedke&style=black-square&color=blue" alt=""/>
 
 <img src="https://wallpapers-clan.com/wp-content/uploads/2022/07/funny-cat-1.jpg" alt=""/>
 
