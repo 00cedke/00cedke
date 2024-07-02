@@ -1,4 +1,5 @@
-# Hello, i'm cedkeChat01 🐵
+# Hello, i'm cedkeChat 🐵
+- I'm a Wii U developer :D
 ____________________________________________________________
 
 # My Stats 🔥
@@ -11,7 +12,7 @@ ____________________________________________________________
 
 <img src="https://wallpapers-clan.com/wp-content/uploads/2022/07/funny-cat-1.jpg" alt=""/>
 
-# languages
+# languages codes
 - [x] HTML
 - [x] CSS
 - [X] SCSS
