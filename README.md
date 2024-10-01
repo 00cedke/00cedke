@@ -10,6 +10,7 @@
 - [x] Go (little).
 - [x] C++ & C
 - [x] Python (little).
+- [x] Shell (Little only for Innoverse Project).
 
 # About me
 - I'm french and i love Paris.
