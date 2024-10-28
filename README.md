@@ -1,5 +1,5 @@
-# Hello, i'm cedkeChat
-- I'm 15 years old and I'm a developer for the Wii U and I'm starting to develop for the 3DS.
+# Hello, i'm cedkeChat 👋
+- I'm 15 years old 1️5️⃣, and I'm a developer for the Wii U and I'm starting to develop for the 3DS too.
 - I do lots of projects like Innoverse, Retendo Network, CatyClient and other projects on my github.
 --------------------------------------------------------------------------------
 # What i do ?
@@ -11,6 +11,5 @@
 - [x] C++ & C
 - [x] Python (little).
 - [x] Shell
+- [x] EJS
 - [x] Dockerfile (I learn Docker and use Docker App).
-
-# Give me a cookie if you love cat like me :)
