@@ -10,7 +10,7 @@
 - [x] CSS
 - [x] Go (little).
 - [x] C++ & C
-- [x] Python (little).
+- [x] Python (Really using only for [NEX Server](https://github.com/RetendoNetwork/nex-protocols).
 - [x] Shell
 - [x] EJS
 - [x] Dockerfile (Docker).
