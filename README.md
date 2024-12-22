@@ -5,15 +5,15 @@
 # Skills
 ## Codes
 - [x] PHP
-- [x] Javascript (Node JS).
+- [x] Javascript (Node JS)
 - [x] HTML
 - [x] CSS
-- [x] Go (little).
-- [x] C++ & C
-- [x] Python (Really using only for [NEX Server](https://github.com/RetendoNetwork/nex)).
+- [x] Go.
+- [x] C++
+- [x] C
+- [x] Python
 - [x] Shell
-- [x] EJS
-- [x] Dockerfile (Docker).
+- [x] Dockerfile (Docker)
 ## Databases
 - [x] MySQL
 - [x] MongoDB
