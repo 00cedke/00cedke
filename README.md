@@ -8,7 +8,7 @@
 - [x] Javascript (Node JS)
 - [x] HTML
 - [x] CSS
-- [x] Go.
+- [x] Go
 - [x] C++
 - [x] C
 - [x] Python
