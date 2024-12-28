@@ -1,6 +1,6 @@
 # Hello, i'm cedkeChat 👋
 - I'm 15 years old 1️5️⃣, and I'm a developer for the Wii U and I'm starting to develop for the 3DS too.
-- I do lots of projects like Innoverse, Retendo Network, CatyClient and other projects on my github.
+- I do lots of projects like Innoverse, Nextendo Network, CatyClient and other projects on my github.
 --------------------------------------------------------------------------------
 # Skills
 ## Codes
